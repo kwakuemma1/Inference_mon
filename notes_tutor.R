@@ -6,10 +6,9 @@ ipak <- function(pkg){
   sapply(pkg, require, character.only = TRUE)
 }
 
-ipak("rstanarm")
+# ipak("...")
+
 # Tutorial Packages
 library(r4ds.tutorials)
 library(all.primer.tutorials)
 library(tidycensus.tutorials)
-
-library(rstanarm)
