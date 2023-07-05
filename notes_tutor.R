@@ -12,3 +12,5 @@ ipak <- function(pkg){
 library(r4ds.tutorials)
 library(all.primer.tutorials)
 library(tidycensus.tutorials)
+
+
